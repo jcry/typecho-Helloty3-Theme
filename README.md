@@ -1,10 +1,14 @@
 # typecho-Helloty3-Theme
 
+##### 说明：我只是搬运工
+
 本主题原发布地：  http://www.zzfly.net/typecho-theme-helloty3/
 
 演示： www.66a.biz
 
 <img src="https://ooo.0o0.ooo/2017/08/08/59889376c5b65.png" alt="index-935x1024.png" title="index-935x1024.png" />
+
+<img src="https://i.loli.net/2017/09/21/59c3d5afb6f47.png" alt="index-935x1024.png" title="index-935x1024.png" />
 
 ### Helloty3主题发布说明
 
@@ -23,5 +27,3 @@
 – 较为丰富的后台选项，可以控制侧边栏小工具的开关以及页脚版权填写
 
 – 已经修复上个版本部分错误，更加直观
-
-<img src="https://i.loli.net/2017/09/21/59c3d5afb6f47.png" alt="index-935x1024.png" title="index-935x1024.png" />
