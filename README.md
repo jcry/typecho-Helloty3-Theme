@@ -23,3 +23,5 @@
 – 较为丰富的后台选项，可以控制侧边栏小工具的开关以及页脚版权填写
 
 – 已经修复上个版本部分错误，更加直观
+
+<img src="https://i.loli.net/2017/09/21/59c3d5afb6f47.png" alt="index-935x1024.png" title="index-935x1024.png" />
